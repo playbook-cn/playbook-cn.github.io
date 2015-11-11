@@ -1,3 +1,23 @@
+
+#back-top {
+  background: rgba(25, 25, 25, 0.1) none repeat scroll 0 0;
+  bottom: 60px;
+  display: none;
+  font-size: 14px;
+  height: 38px;
+  line-height: 38px;
+  left: 92%;
+  position: fixed;
+  text-align: center;
+  width: 38px;
+  z-index: 10;
+}
+
+#back-top a {
+  padding: 9px 12px;
+  text-decoration: none;
+}
+
 .bg.bg-ceo {
   background-color: #96bd6e;
   background-image: url("../img/ceo/bg.png");
